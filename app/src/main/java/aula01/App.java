@@ -1,6 +1,6 @@
-package app;
+package app.src.main.java.aula01;
 
-public class Java {
+public class App {
 
     public static void main (String args[]) {
 
